@@ -1,0 +1,20 @@
+{
+  "author": "Jayson Vincent",
+  "name": "jaysonnodeone",
+  "version": " 0.1.1",
+  "description": "Jayson - censors words out of text",
+  "main": "jaysonnodeonetext",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jtvincent/simplenode.git"
+  },
+  "keywords": [
+    "censor",
+    "jayson",
+    "words"
+  ],
+  "dependencies": { },
+  "engines": {
+    "node": "*"
+  }
+}
